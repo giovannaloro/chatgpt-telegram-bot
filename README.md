@@ -7,4 +7,4 @@ This script is meant to be executed in linux
 * 3: Create the environment variable OPENAI_API_KEY and set your key as value
 * 4: Create the environment variable TELEGRAM_API_KEY and set your key as value
 * 5: Run bot.py
-Now you have a working bot!
+\n Now you have a working bot!
